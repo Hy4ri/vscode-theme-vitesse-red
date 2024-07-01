@@ -13,7 +13,7 @@ export const colors = {
 
 // [dark, light]
 export const VitesseThemes = {
-  primary: ['#4d9375', '#1c6b48'],
+  primary: ['#cd4322', '#ab2938'],
 
   foreground: ['#dbd7caee', '#393a34'],
   activeForeground: ['#bfbaaa', '#4e4f47'],
@@ -43,9 +43,9 @@ export const VitesseThemes = {
   comment: ['#758575dd', '#a0ada0'],
   string: ['#c98a7d', '#b56959'],
   variable: ['#bd976a', '#b07d48'],
-  keyword: ['#4d9375', '#1e754f'],
+  keyword: ['#cd3244', '#ab2938'],
   number: ['#4C9A91', '#2f798a'],
-  boolean: ['#4d9375', '#1e754f'],
+  boolean: ['#cd3244', '#ab2938'],
   operator: ['#cb7676', '#ab5959'],
   function: ['#80a665', '#59873a'],
   constant: ['#c99076', '#a65e2b'],
