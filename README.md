@@ -11,3 +11,4 @@ By: [antfu](https://github.com/antfu/).
 
 MIT - Copyright (c) 2020 Primer
 MIT - Copyright (c) 2021 Anthony Fu
+MIT - Copyright (c) 2024 hy4ri
