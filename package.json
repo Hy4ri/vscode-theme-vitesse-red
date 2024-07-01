@@ -1,23 +1,25 @@
 {
-  "publisher": "antfu",
-  "name": "theme-vitesse",
-  "displayName": "Vitesse Theme",
-  "version": "0.8.0",
+  "publisher": "M57",
+  "name": "m57",
+  "displayName": "M57",
+  "version": "0.1.0",
   "packageManager": "pnpm@9.1.1",
-  "description": "Vitesse theme for VS Code",
+  "description": "fork of Vitesse theme for VS Code",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/antfu/vscode-theme-vitesse"
+    "url": "https://github.com/hy4ri/vscode-theme-vitesse-red"
   },
   "bugs": {
-    "url": "https://github.com/antfu/vscode-theme-vitesse/issues"
+    "url": "https://github.com/hy4ri/vscode-theme-vitesse-red/issues"
   },
   "keywords": [
     "theme",
     "vitesse",
     "light",
-    "dark"
+    "dark",
+    "m57",
+    "red"
   ],
   "categories": [
     "Themes"
@@ -36,29 +38,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Vitesse Light",
-        "uiTheme": "vs",
-        "path": "./themes/vitesse-light.json"
-      },
-      {
-        "label": "Vitesse Dark",
+        "label": "M57",
         "uiTheme": "vs-dark",
-        "path": "./themes/vitesse-dark.json"
-      },
-      {
-        "label": "Vitesse Black",
-        "uiTheme": "vs-dark",
-        "path": "./themes/vitesse-black.json"
-      },
-      {
-        "label": "Vitesse Light Soft",
-        "uiTheme": "vs",
-        "path": "./themes/vitesse-light-soft.json"
-      },
-      {
-        "label": "Vitesse Dark Soft",
-        "uiTheme": "vs-dark",
-        "path": "./themes/vitesse-dark-soft.json"
+        "path": "./themes/m57.json"
       }
     ]
   },
@@ -72,7 +54,7 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^2.17.0",
-    "@antfu/utils": "^0.7.8",
+    "@antfu/utils": "^0.7.10",
     "@types/color": "^3.0.6",
     "@types/fs-extra": "^11.0.4",
     "@types/node": "^20.12.11",
