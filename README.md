@@ -10,4 +10,4 @@ By: [antfu](https://github.com/antfu/).
 ## License
 
 MIT - Copyright (c) 2020 Primer
-
+MIT - Copyright (c) 2021 Anthony Fu
