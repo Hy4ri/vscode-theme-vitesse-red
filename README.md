@@ -6,7 +6,7 @@
 ## Thanks
 
 This project is based on [vscode-theme-vitesse](https://github.com/antfu/vscode-theme-vitesse),
-By : [@antfu](https://github.com/antfu/).
+By : [antfu](https://github.com/antfu/).
 ## License
 
 MIT - Copyright (c) 2020 Primer
