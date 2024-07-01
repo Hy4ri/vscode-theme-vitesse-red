@@ -9,6 +9,6 @@ This project is based on [vscode-theme-vitesse](https://github.com/antfu/vscode-
 By: [antfu](https://github.com/antfu/).
 ## License
 
-MIT - Copyright (c) 2020 Primer
-MIT - Copyright (c) 2021 Anthony Fu
+MIT - Copyright (c) 2020 Primer </br>
+MIT - Copyright (c) 2021 Anthony Fu </br>
 MIT - Copyright (c) 2024 hy4ri
